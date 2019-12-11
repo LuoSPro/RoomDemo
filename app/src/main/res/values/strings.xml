@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="etId" translatable="false">id</string>
+    <string name="etName" translatable="false">name</string>
+    <string name="etSex" translatable="false">sex</string>
+    <string name="etAge" translatable="false">age</string>
+    <string name="btnAdd">增</string>
+    <string name="btnDelete">删</string>
+    <string name="btnUpdate">改</string>
+    <string name="btnQuery">查</string>
+</resources>
